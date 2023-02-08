@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1,
+        "name": "Footwear technology (98)",
+        "slug": "footwear-technology-98-2016",
+        "tech": "Footwear technology (98)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Tourism And Hospitality (99)",
+        "slug": "tourism-and-hospitality-99-2016",
+        "tech": "Tourism And Hospitality (99)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Architecture Technology (661)",
+        "slug": "architecture-technology-661-2016",
+        "tech": "Architecture Technology (661)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Automobile Technology (662)",
+        "slug": "automobile-technology-662-2016",
+        "tech": "Automobile Technology (662)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Chemical Technology (663)",
+        "slug": "chemical-technology-663-2016",
+        "tech": "Chemical Technology (663)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Civil Technology (664)",
+        "slug": "civil-technology-664-2016",
+        "tech": "Civil Technology (664)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Civil (Wood) Technology (665)",
+        "slug": "civil-wood-technology-665-2016",
+        "tech": "Civil (Wood) Technology (665)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    }
+]
