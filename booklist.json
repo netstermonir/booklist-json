@@ -306,5 +306,577 @@
                 "subjects": [{}]
             }
         ]
+    },
+    {
+        "id": 8,
+        "name": "Computer Technology (666)",
+        "slug": "computer-technology-666-2016",
+        "tech": "Computer Technology (666)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Electrical Technology (667)",
+        "slug": "electrical-technology-667-2016",
+        "tech": "Electrical Technology (667)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Electronics Technology (668)",
+        "slug": "electronics-technology-668-2016",
+        "tech": "Electronics Technology (668)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Food Technology (669)",
+        "slug": "food-technology-669-2016",
+        "tech": "Food Technology (669)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Mechanical Technology (670)",
+        "slug": "mechanical-technology-670-2016",
+        "tech": "Mechanical Technology (670)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Power Technology (671)",
+        "slug": "power-technology-671-2016",
+        "tech": "Power Technology (671)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Refrigeration And Air Conditioning Technology (672)",
+        "slug": "refrigeration-and-air-conditioning-technology-672-2016",
+        "tech": "Refrigeration And Air Conditioning Technology (672)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Ceramic Technology (676)",
+        "slug": "ceramic-technology-676-2016",
+        "tech": "Ceramic Technology (676)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Glass Technology (677)",
+        "slug": "glass-technology-677-2016",
+        "tech": "Glass Technology (677)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Surveying Technology (678)",
+        "slug": "surveying-technology-678-2016",
+        "tech": "Surveying Technology (678)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Marine Technology (679)",
+        "slug": "marine-technology-679-2016",
+        "tech": "Marine Technology (679)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Shipbuilding Technology (680)",
+        "slug": "shipbuilding-technology-680-2016",
+        "tech": "Shipbuilding Technology (680)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Aircraft Maintenance (Aerospace) Technology (682)",
+        "slug": "aircraft-maintenance-aerospace-technology-682-2016",
+        "tech": "Aircraft Maintenance (Aerospace) Technology (682)",
+        "year": "BookList 2016",
+        "allSemesters": [
+            {
+                "id": 1,
+                "name": "1st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 2,
+                "name": "2st Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 3,
+                "name": "3rd Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 4,
+                "name": "4th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 5,
+                "name": "5th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 6,
+                "name": "6th Semester",
+                "subjects": [{}]
+            },
+            {
+                "id": 7,
+                "name": "7th Semester",
+                "subjects": [{}]
+            }
+        ]
     }
 ]
