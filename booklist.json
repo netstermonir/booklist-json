@@ -9,37 +9,259 @@
             {
                 "id": 1,
                 "name": "1st Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "61011",
+                        "name": "Engineering Drawing"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69811",
+                        "name": "Footwear Engineering Fundamentals"
+                    },
+                    {
+                        "id": 3,
+                        "code": "66712",
+                        "name": "Electrical Engineering Fundamentals"
+                    },
+                    {
+                        "id": 4,
+                        "code": "65711",
+                        "name": "Bangla"
+                    },
+                    {
+                        "id": 5,
+                        "code": "65812",
+                        "name": "Physical Education & Life Skill development"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65911",
+                        "name": "Mathematics-1"
+                    },
+                    {
+                        "id": 7,
+                        "code": "65913",
+                        "name": "Chemistry"
+                    }
+                ]
             },
             {
                 "id": 2,
                 "name": "2st Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69821",
+                        "name": "Footwear Manufacture-I"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69822",
+                        "name": "Material Science - I"
+                    },
+                    {
+                        "id": 3,
+                        "code": "66611",
+                        "name": "Computer application"
+                    },
+                    {
+                        "id": 4,
+                        "code": "65921",
+                        "name": "Mathematics-2"
+                    },
+                    {
+                        "id": 5,
+                        "code": "65912",
+                        "name": "Physics-1"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65712",
+                        "name": "English"
+                    }
+                ]
             },
             {
                 "id": 3,
                 "name": "3rd Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69831",
+                        "name": "Footwear Manufacture-II"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69832",
+                        "name": "Material Science - II"
+                    },
+                    {
+                        "id": 3,
+                        "code": "66635",
+                        "name": "Computer Application -II"
+                    },
+                    {
+                        "id": 4,
+                        "code": "65931",
+                        "name": "Mathematics-3"
+                    },
+                    {
+                        "id": 5,
+                        "code": "65922",
+                        "name": "Physics-2"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65811",
+                        "name": "Social science"
+                    }
+                ]
             },
             {
                 "id": 4,
                 "name": "4th Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69841",
+                        "name": "Footwear Manufacture - III"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69842",
+                        "name": "Synthetics and Accessories Materials"
+                    },
+                    {
+                        "id": 3,
+                        "code": "69843",
+                        "name": "Footwear Health & Hygiene"
+                    },
+                    {
+                        "id": 4,
+                        "code": "69844",
+                        "name": "Polymer Science- I"
+                    },
+                    {
+                        "id": 5,
+                        "code": "69054",
+                        "name": "Environmental Studies"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65851",
+                        "name": "Accounting Theory & Practice"
+                    }
+                ]
             },
             {
                 "id": 5,
                 "name": "5th Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69851",
+                        "name": "Footwear Manufacture - IV"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69852",
+                        "name": "Footwear Design& Pattern Making-I"
+                    },
+                    {
+                        "id": 3,
+                        "code": "69853",
+                        "name": "Industrial Health & Safety"
+                    },
+                    {
+                        "id": 4,
+                        "code": "69854",
+                        "name": "Polymer Science - II"
+                    },
+                    {
+                        "id": 5,
+                        "code": "69855",
+                        "name": "Footwear Engineering Drawing"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65852",
+                        "name": "Industrial Management"
+                    }
+                ]
             },
             {
                 "id": 6,
                 "name": "6th Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69861",
+                        "name": "Footwear CAD and CAM"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69862",
+                        "name": "Leather Technology -I"
+                    },
+                    {
+                        "id": 3,
+                        "code": "69863",
+                        "name": "Testing of Footwear Materials and Accessories"
+                    },
+                    {
+                        "id": 4,
+                        "code": "69864",
+                        "name": "Footwear Production Technology"
+                    },
+                    {
+                        "id": 5,
+                        "code": "66651",
+                        "name": "Programming in Java"
+                    },
+                    {
+                        "id": 6,
+                        "code": "65853",
+                        "name": "Innovation & Entrepreneurship"
+                    }
+                ]
             },
             {
                 "id": 7,
                 "name": "7th Semester",
-                "subjects": [{}]
+                "subjects": [
+                    {
+                        "id": 1,
+                        "code": "69871",
+                        "name": "Footwear Design and Pattern Making - II"
+                    },
+                    {
+                        "id": 2,
+                        "code": "69872",
+                        "name": "Leather Technology - II"
+                    },
+                    {
+                        "id": 3,
+                        "code": "69873",
+                        "name": "Footwear Machinery"
+                    },
+                    {
+                        "id": 4,
+                        "code": "69874",
+                        "name": "Production Planning and Quality Control"
+                    },
+                    {
+                        "id": 5,
+                        "code": "69875",
+                        "name": "Industrial and Production Engineering"
+                    },
+                    {
+                        "id": 6,
+                        "code": "69876",
+                        "name": "Footwear Engineering Project"
+                    }
+                ]
             }
         ]
     },
