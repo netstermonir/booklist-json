@@ -1,1104 +1,2210 @@
-[
-    {
-        "id": 1,
-        "name": "Footwear technology (98)",
-        "slug": "footwear-technology-98-2016",
-        "tech": "Footwear technology (98)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "61011",
-                        "name": "Engineering Drawing"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69811",
-                        "name": "Footwear Engineering Fundamentals"
-                    },
-                    {
-                        "id": 3,
-                        "code": "66712",
-                        "name": "Electrical Engineering Fundamentals"
-                    },
-                    {
-                        "id": 4,
-                        "code": "65711",
-                        "name": "Bangla"
-                    },
-                    {
-                        "id": 5,
-                        "code": "65812",
-                        "name": "Physical Education & Life Skill development"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65911",
-                        "name": "Mathematics-1"
-                    },
-                    {
-                        "id": 7,
-                        "code": "65913",
-                        "name": "Chemistry"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69821",
-                        "name": "Footwear Manufacture-I"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69822",
-                        "name": "Material Science - I"
-                    },
-                    {
-                        "id": 3,
-                        "code": "66611",
-                        "name": "Computer application"
-                    },
-                    {
-                        "id": 4,
-                        "code": "65921",
-                        "name": "Mathematics-2"
-                    },
-                    {
-                        "id": 5,
-                        "code": "65912",
-                        "name": "Physics-1"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65712",
-                        "name": "English"
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69831",
-                        "name": "Footwear Manufacture-II"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69832",
-                        "name": "Material Science - II"
-                    },
-                    {
-                        "id": 3,
-                        "code": "66635",
-                        "name": "Computer Application -II"
-                    },
-                    {
-                        "id": 4,
-                        "code": "65931",
-                        "name": "Mathematics-3"
-                    },
-                    {
-                        "id": 5,
-                        "code": "65922",
-                        "name": "Physics-2"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65811",
-                        "name": "Social science"
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69841",
-                        "name": "Footwear Manufacture - III"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69842",
-                        "name": "Synthetics and Accessories Materials"
-                    },
-                    {
-                        "id": 3,
-                        "code": "69843",
-                        "name": "Footwear Health & Hygiene"
-                    },
-                    {
-                        "id": 4,
-                        "code": "69844",
-                        "name": "Polymer Science- I"
-                    },
-                    {
-                        "id": 5,
-                        "code": "69054",
-                        "name": "Environmental Studies"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65851",
-                        "name": "Accounting Theory & Practice"
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69851",
-                        "name": "Footwear Manufacture - IV"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69852",
-                        "name": "Footwear Design& Pattern Making-I"
-                    },
-                    {
-                        "id": 3,
-                        "code": "69853",
-                        "name": "Industrial Health & Safety"
-                    },
-                    {
-                        "id": 4,
-                        "code": "69854",
-                        "name": "Polymer Science - II"
-                    },
-                    {
-                        "id": 5,
-                        "code": "69855",
-                        "name": "Footwear Engineering Drawing"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65852",
-                        "name": "Industrial Management"
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69861",
-                        "name": "Footwear CAD and CAM"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69862",
-                        "name": "Leather Technology -I"
-                    },
-                    {
-                        "id": 3,
-                        "code": "69863",
-                        "name": "Testing of Footwear Materials and Accessories"
-                    },
-                    {
-                        "id": 4,
-                        "code": "69864",
-                        "name": "Footwear Production Technology"
-                    },
-                    {
-                        "id": 5,
-                        "code": "66651",
-                        "name": "Programming in Java"
-                    },
-                    {
-                        "id": 6,
-                        "code": "65853",
-                        "name": "Innovation & Entrepreneurship"
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [
-                    {
-                        "id": 1,
-                        "code": "69871",
-                        "name": "Footwear Design and Pattern Making - II"
-                    },
-                    {
-                        "id": 2,
-                        "code": "69872",
-                        "name": "Leather Technology - II"
-                    },
-                    {
-                        "id": 3,
-                        "code": "69873",
-                        "name": "Footwear Machinery"
-                    },
-                    {
-                        "id": 4,
-                        "code": "69874",
-                        "name": "Production Planning and Quality Control"
-                    },
-                    {
-                        "id": 5,
-                        "code": "69875",
-                        "name": "Industrial and Production Engineering"
-                    },
-                    {
-                        "id": 6,
-                        "code": "69876",
-                        "name": "Footwear Engineering Project"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Tourism And Hospitality (99)",
-        "slug": "tourism-and-hospitality-99-2016",
-        "tech": "Tourism And Hospitality (99)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "name": "Architecture Technology (661)",
-        "slug": "architecture-technology-661-2016",
-        "tech": "Architecture Technology (661)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "name": "Automobile Technology (662)",
-        "slug": "automobile-technology-662-2016",
-        "tech": "Automobile Technology (662)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "name": "Chemical Technology (663)",
-        "slug": "chemical-technology-663-2016",
-        "tech": "Chemical Technology (663)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "name": "Civil Technology (664)",
-        "slug": "civil-technology-664-2016",
-        "tech": "Civil Technology (664)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "name": "Civil (Wood) Technology (665)",
-        "slug": "civil-wood-technology-665-2016",
-        "tech": "Civil (Wood) Technology (665)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "name": "Computer Technology (666)",
-        "slug": "computer-technology-666-2016",
-        "tech": "Computer Technology (666)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "name": "Electrical Technology (667)",
-        "slug": "electrical-technology-667-2016",
-        "tech": "Electrical Technology (667)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "name": "Electronics Technology (668)",
-        "slug": "electronics-technology-668-2016",
-        "tech": "Electronics Technology (668)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "name": "Food Technology (669)",
-        "slug": "food-technology-669-2016",
-        "tech": "Food Technology (669)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "name": "Mechanical Technology (670)",
-        "slug": "mechanical-technology-670-2016",
-        "tech": "Mechanical Technology (670)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 13,
-        "name": "Power Technology (671)",
-        "slug": "power-technology-671-2016",
-        "tech": "Power Technology (671)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "name": "Refrigeration And Air Conditioning Technology (672)",
-        "slug": "refrigeration-and-air-conditioning-technology-672-2016",
-        "tech": "Refrigeration And Air Conditioning Technology (672)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "name": "Ceramic Technology (676)",
-        "slug": "ceramic-technology-676-2016",
-        "tech": "Ceramic Technology (676)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "name": "Glass Technology (677)",
-        "slug": "glass-technology-677-2016",
-        "tech": "Glass Technology (677)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 17,
-        "name": "Surveying Technology (678)",
-        "slug": "surveying-technology-678-2016",
-        "tech": "Surveying Technology (678)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "name": "Marine Technology (679)",
-        "slug": "marine-technology-679-2016",
-        "tech": "Marine Technology (679)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "name": "Shipbuilding Technology (680)",
-        "slug": "shipbuilding-technology-680-2016",
-        "tech": "Shipbuilding Technology (680)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "name": "Aircraft Maintenance (Aerospace) Technology (682)",
-        "slug": "aircraft-maintenance-aerospace-technology-682-2016",
-        "tech": "Aircraft Maintenance (Aerospace) Technology (682)",
-        "year": "BookList 2016",
-        "allSemesters": [
-            {
-                "id": 1,
-                "name": "1st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 2,
-                "name": "2st Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 3,
-                "name": "3rd Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 4,
-                "name": "4th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 5,
-                "name": "5th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 6,
-                "name": "6th Semester",
-                "subjects": [{}]
-            },
-            {
-                "id": 7,
-                "name": "7th Semester",
-                "subjects": [{}]
-            }
-        ]
-    }
-]
+{
+    "dataOld": [
+        {
+            "id": 1,
+            "name": "Footwear technology (98)",
+            "slug": "footwear-technology-98-2016",
+            "tech": "Footwear technology (98)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "61011",
+                            "name": "Engineering Drawing"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69811",
+                            "name": "Footwear Engineering Fundamentals"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66712",
+                            "name": "Electrical Engineering Fundamentals"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65711",
+                            "name": "Bangla"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65812",
+                            "name": "Physical Education & Life Skill development"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65911",
+                            "name": "Mathematics-1"
+                        },
+                        {
+                            "id": 7,
+                            "code": "65913",
+                            "name": "Chemistry"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69821",
+                            "name": "Footwear Manufacture-I"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69822",
+                            "name": "Material Science - I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66611",
+                            "name": "Computer application"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65921",
+                            "name": "Mathematics-2"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65912",
+                            "name": "Physics-1"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65712",
+                            "name": "English"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69831",
+                            "name": "Footwear Manufacture-II"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69832",
+                            "name": "Material Science - II"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66635",
+                            "name": "Computer Application -II"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65931",
+                            "name": "Mathematics-3"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65922",
+                            "name": "Physics-2"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65811",
+                            "name": "Social science"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69841",
+                            "name": "Footwear Manufacture - III"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69842",
+                            "name": "Synthetics and Accessories Materials"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69843",
+                            "name": "Footwear Health & Hygiene"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69844",
+                            "name": "Polymer Science- I"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69054",
+                            "name": "Environmental Studies"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65851",
+                            "name": "Accounting Theory & Practice"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69851",
+                            "name": "Footwear Manufacture - IV"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69852",
+                            "name": "Footwear Design& Pattern Making-I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69853",
+                            "name": "Industrial Health & Safety"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69854",
+                            "name": "Polymer Science - II"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69855",
+                            "name": "Footwear Engineering Drawing"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65852",
+                            "name": "Industrial Management"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69861",
+                            "name": "Footwear CAD and CAM"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69862",
+                            "name": "Leather Technology -I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69863",
+                            "name": "Testing of Footwear Materials and Accessories"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69864",
+                            "name": "Footwear Production Technology"
+                        },
+                        {
+                            "id": 5,
+                            "code": "66651",
+                            "name": "Programming in Java"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65853",
+                            "name": "Innovation & Entrepreneurship"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69871",
+                            "name": "Footwear Design and Pattern Making - II"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69872",
+                            "name": "Leather Technology - II"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69873",
+                            "name": "Footwear Machinery"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69874",
+                            "name": "Production Planning and Quality Control"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69875",
+                            "name": "Industrial and Production Engineering"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69876",
+                            "name": "Footwear Engineering Project"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tourism And Hospitality (99)",
+            "slug": "tourism-and-hospitality-99-2016",
+            "tech": "Tourism And Hospitality (99)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Architecture Technology (661)",
+            "slug": "architecture-technology-661-2016",
+            "tech": "Architecture Technology (661)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Automobile Technology (662)",
+            "slug": "automobile-technology-662-2016",
+            "tech": "Automobile Technology (662)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chemical Technology (663)",
+            "slug": "chemical-technology-663-2016",
+            "tech": "Chemical Technology (663)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Civil Technology (664)",
+            "slug": "civil-technology-664-2016",
+            "tech": "Civil Technology (664)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Civil (Wood) Technology (665)",
+            "slug": "civil-wood-technology-665-2016",
+            "tech": "Civil (Wood) Technology (665)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Computer Technology (666)",
+            "slug": "computer-technology-666-2016",
+            "tech": "Computer Technology (666)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Electrical Technology (667)",
+            "slug": "electrical-technology-667-2016",
+            "tech": "Electrical Technology (667)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Electronics Technology (668)",
+            "slug": "electronics-technology-668-2016",
+            "tech": "Electronics Technology (668)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Food Technology (669)",
+            "slug": "food-technology-669-2016",
+            "tech": "Food Technology (669)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Mechanical Technology (670)",
+            "slug": "mechanical-technology-670-2016",
+            "tech": "Mechanical Technology (670)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Power Technology (671)",
+            "slug": "power-technology-671-2016",
+            "tech": "Power Technology (671)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Refrigeration And Air Conditioning Technology (672)",
+            "slug": "refrigeration-and-air-conditioning-technology-672-2016",
+            "tech": "Refrigeration And Air Conditioning Technology (672)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ceramic Technology (676)",
+            "slug": "ceramic-technology-676-2016",
+            "tech": "Ceramic Technology (676)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Glass Technology (677)",
+            "slug": "glass-technology-677-2016",
+            "tech": "Glass Technology (677)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Surveying Technology (678)",
+            "slug": "surveying-technology-678-2016",
+            "tech": "Surveying Technology (678)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Marine Technology (679)",
+            "slug": "marine-technology-679-2016",
+            "tech": "Marine Technology (679)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Shipbuilding Technology (680)",
+            "slug": "shipbuilding-technology-680-2016",
+            "tech": "Shipbuilding Technology (680)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Aircraft Maintenance (Aerospace) Technology (682)",
+            "slug": "aircraft-maintenance-aerospace-technology-682-2016",
+            "tech": "Aircraft Maintenance (Aerospace) Technology (682)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        }
+    ],
+    "dataNew": [
+        {
+            "id": 1,
+            "name": "Footwear technology (22)",
+            "slug": "footwear-technology-22-2022",
+            "tech": "Footwear technology (22)",
+            "year": "BookList 2022",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "61011",
+                            "name": "Engineering Drawing updated"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69811",
+                            "name": "Footwear Engineering Fundamentals"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66712",
+                            "name": "Electrical Engineering Fundamentals"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65711",
+                            "name": "Bangla"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65812",
+                            "name": "Physical Education & Life Skill development"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65911",
+                            "name": "Mathematics-1"
+                        },
+                        {
+                            "id": 7,
+                            "code": "65913",
+                            "name": "Chemistry"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69821",
+                            "name": "Footwear Manufacture-I"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69822",
+                            "name": "Material Science - I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66611",
+                            "name": "Computer application"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65921",
+                            "name": "Mathematics-2"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65912",
+                            "name": "Physics-1"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65712",
+                            "name": "English"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69831",
+                            "name": "Footwear Manufacture-II"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69832",
+                            "name": "Material Science - II"
+                        },
+                        {
+                            "id": 3,
+                            "code": "66635",
+                            "name": "Computer Application -II"
+                        },
+                        {
+                            "id": 4,
+                            "code": "65931",
+                            "name": "Mathematics-3"
+                        },
+                        {
+                            "id": 5,
+                            "code": "65922",
+                            "name": "Physics-2"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65811",
+                            "name": "Social science"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69841",
+                            "name": "Footwear Manufacture - III"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69842",
+                            "name": "Synthetics and Accessories Materials"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69843",
+                            "name": "Footwear Health & Hygiene"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69844",
+                            "name": "Polymer Science- I"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69054",
+                            "name": "Environmental Studies"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65851",
+                            "name": "Accounting Theory & Practice"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69851",
+                            "name": "Footwear Manufacture - IV"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69852",
+                            "name": "Footwear Design& Pattern Making-I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69853",
+                            "name": "Industrial Health & Safety"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69854",
+                            "name": "Polymer Science - II"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69855",
+                            "name": "Footwear Engineering Drawing"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65852",
+                            "name": "Industrial Management"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69861",
+                            "name": "Footwear CAD and CAM"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69862",
+                            "name": "Leather Technology -I"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69863",
+                            "name": "Testing of Footwear Materials and Accessories"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69864",
+                            "name": "Footwear Production Technology"
+                        },
+                        {
+                            "id": 5,
+                            "code": "66651",
+                            "name": "Programming in Java"
+                        },
+                        {
+                            "id": 6,
+                            "code": "65853",
+                            "name": "Innovation & Entrepreneurship"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69871",
+                            "name": "Footwear Design and Pattern Making - II"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69872",
+                            "name": "Leather Technology - II"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69873",
+                            "name": "Footwear Machinery"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69874",
+                            "name": "Production Planning and Quality Control"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69875",
+                            "name": "Industrial and Production Engineering"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69876",
+                            "name": "Footwear Engineering Project"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tourism And Hospitality (99)",
+            "slug": "tourism-and-hospitality-99-2016",
+            "tech": "Tourism And Hospitality (99)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Architecture Technology (661)",
+            "slug": "architecture-technology-661-2016",
+            "tech": "Architecture Technology (661)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Automobile Technology (662)",
+            "slug": "automobile-technology-662-2016",
+            "tech": "Automobile Technology (662)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Chemical Technology (663)",
+            "slug": "chemical-technology-663-2016",
+            "tech": "Chemical Technology (663)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Civil Technology (664)",
+            "slug": "civil-technology-664-2016",
+            "tech": "Civil Technology (664)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Civil (Wood) Technology (665)",
+            "slug": "civil-wood-technology-665-2016",
+            "tech": "Civil (Wood) Technology (665)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Computer Technology (666)",
+            "slug": "computer-technology-666-2016",
+            "tech": "Computer Technology (666)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Electrical Technology (667)",
+            "slug": "electrical-technology-667-2016",
+            "tech": "Electrical Technology (667)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Electronics Technology (668)",
+            "slug": "electronics-technology-668-2016",
+            "tech": "Electronics Technology (668)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Food Technology (669)",
+            "slug": "food-technology-669-2016",
+            "tech": "Food Technology (669)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Mechanical Technology (670)",
+            "slug": "mechanical-technology-670-2016",
+            "tech": "Mechanical Technology (670)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Power Technology (671)",
+            "slug": "power-technology-671-2016",
+            "tech": "Power Technology (671)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Refrigeration And Air Conditioning Technology (672)",
+            "slug": "refrigeration-and-air-conditioning-technology-672-2016",
+            "tech": "Refrigeration And Air Conditioning Technology (672)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Ceramic Technology (676)",
+            "slug": "ceramic-technology-676-2016",
+            "tech": "Ceramic Technology (676)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Glass Technology (677)",
+            "slug": "glass-technology-677-2016",
+            "tech": "Glass Technology (677)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Surveying Technology (678)",
+            "slug": "surveying-technology-678-2016",
+            "tech": "Surveying Technology (678)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Marine Technology (679)",
+            "slug": "marine-technology-679-2016",
+            "tech": "Marine Technology (679)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Shipbuilding Technology (680)",
+            "slug": "shipbuilding-technology-680-2016",
+            "tech": "Shipbuilding Technology (680)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Aircraft Maintenance (Aerospace) Technology (682)",
+            "slug": "aircraft-maintenance-aerospace-technology-682-2016",
+            "tech": "Aircraft Maintenance (Aerospace) Technology (682)",
+            "year": "BookList 2016",
+            "allSemesters": [
+                {
+                    "id": 1,
+                    "name": "1st Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 2,
+                    "name": "2nd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 3,
+                    "name": "3rd Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 4,
+                    "name": "4th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 5,
+                    "name": "5th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 6,
+                    "name": "6th Semester",
+                    "subjects": [{}]
+                },
+                {
+                    "id": 7,
+                    "name": "7th Semester",
+                    "subjects": [{}]
+                }
+            ]
+        }
+    ]
+}
