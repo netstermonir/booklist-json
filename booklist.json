@@ -276,17 +276,120 @@
                 {
                     "id": 1,
                     "name": "1st Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69911",
+                            "name": "Introduction to Tourism and Hospitality"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69912",
+                            "name": "History and Culture of Bangladesh"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69913",
+                            "name": "Basic English"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69914",
+                            "name": "Safety and Hygiene for T & H"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69915",
+                            "name": "Accounting Theory and Practice"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69916",
+                            "name": "Computer Fundamentals and Application"
+                        },
+                        {
+                            "id": 7,
+                            "code": "69917",
+                            "name": "Bangla"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "2nd Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69921",
+                            "name": "Front Office Operation-1"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69922",
+                            "name": "Food & Beverage production -1"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69923",
+                            "name": "Housekeeping & Laundry Operation -1"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69924",
+                            "name": "Food & beverage Service-1"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69925",
+                            "name": "Customer Service in Hospitality"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69926",
+                            "name": "Communicative English-1"
+                        },
+                        {
+                            "id": 7,
+                            "code": "69927",
+                            "name": "Personality Development and Etiquettes"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "3rd Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69931",
+                            "name": "Front Office Operation-02"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69932",
+                            "name": "Housekeeping & Laundry Operation -2"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69933",
+                            "name": "Food & Beverage Production-2"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69934",
+                            "name": "Food & Beverage Service-2"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69935",
+                            "name": "Tour Guiding-1"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69936",
+                            "name": "Bakery & Pastry Production Course Description"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
@@ -296,17 +399,165 @@
                 {
                     "id": 5,
                     "name": "5th Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69951",
+                            "name": "Tour operations"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69956",
+                            "name": "Food Science & Nutrition"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69952",
+                            "name": "Hotel Information System"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69953",
+                            "name": "Tourism Destination and Heritage"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69954",
+                            "name": "Introduction to Finance"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69955",
+                            "name": "Tour Guiding-2"
+                        },
+                        {
+                            "id": 7,
+                            "code": "69957",
+                            "name": "Business Organization & Communication"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "6th Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69961",
+                            "name": "Travel Agency & Ticketing"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69962",
+                            "name": "Team Building & Leadership"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69963",
+                            "name": "Hospitality Sales & Marketing"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69964",
+                            "name": "Tourism policy, rules and regulation"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69965",
+                            "name": "Principles of Tourism Management"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69966",
+                            "name": "MICE Management"
+                        },
+                        {
+                            "id": 7,
+                            "code": "69967",
+                            "name": "Responsible Tourism"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "7th Semester",
-                    "subjects": [{}]
+                    "subjects": [
+                        {
+                            "id": 1,
+                            "code": "69971",
+                            "name": "Hotel Engineering and Maintenance"
+                        },
+                        {
+                            "id": 2,
+                            "code": "69972",
+                            "name": "Hospitality Human Resource Management"
+                        },
+                        {
+                            "id": 3,
+                            "code": "69973",
+                            "name": "Community Based Tourism and Entrepreneurship"
+                        },
+                        {
+                            "id": 4,
+                            "code": "69982",
+                            "name": "Bar & Restaurant Management((Major) in Food& Beverage Division)"
+                        },
+                        {
+                            "id": 5,
+                            "code": "69983",
+                            "name": "Food & Beverage Cost Control((Major) in Food& Beverage Division)"
+                        },
+                        {
+                            "id": 6,
+                            "code": "69984",
+                            "name": "International Cuisines((Major) in Food& Beverage Division)"
+                        },
+                        {
+                            "id": 7,
+                            "code": "69985",
+                            "name": "Food Purchasing and Storage((Major) in Food& Beverage Division)"
+                        },
+                        {
+                            "id": 8,
+                            "code": "69986",
+                            "name": "Lodging Service Management((Major) in Room Division)"
+                        },
+                        {
+                            "id": 9,
+                            "code": "69987",
+                            "name": "Security and Loss Prevention Management((Major) in Room Division)"
+                        },
+                        {
+                            "id": 10,
+                            "code": "69988",
+                            "name": "Room Division Management((Major) in Room Division)"
+                        },
+                        {
+                            "id": 11,
+                            "code": "69989",
+                            "name": "Innovation in Tourism((Major) in Room Division)"
+                        },
+                        {
+                            "id": 12,
+                            "code": "69991",
+                            "name": "Travel Logistic Management((Major) in Travel & Tourism)"
+                        },
+                        {
+                            "id": 13,
+                            "code": "69992",
+                            "name": "Destination Management((Major) in Travel & Tourism)"
+                        },
+                        {
+                            "id": 14,
+                            "code": "69993",
+                            "name": "Resort and Entertainment Operations((Major) in Travel & Tourism)"
+                        },
+                        {
+                            "id": 15,
+                            "code": "69989",
+                            "name": "Innovation in Tourism((Major) in Travel & Tourism)"
+                        }
+                    ]
                 }
             ]
         },
